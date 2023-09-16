@@ -1,0 +1,79 @@
+:root{
+    --clr_background: #ffe000;
+    --clr_btn: rgb(154, 230, 99);
+    --border: 16px;
+}
+
+
+body{
+    position: relative;
+    
+    max-width: 1200px;
+    min-height: 100vh;
+    width: 100%;
+    margin: 30px auto; 
+    background-color: var(--clr_background);
+    font-size: 20px;
+
+}
+
+.logo{
+    position: absolute;
+    bottom: 60px;
+    right: 30px;
+    
+    width: 150px;
+}
+
+main.comprobar{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 80%;
+    max-width: 500px;
+    min-height: 300px;
+    margin: auto;
+
+    padding: 45px;
+    border: 1px solid black;
+    border-radius: var(--border);
+}
+
+.num, .resultado{
+    width: 50px;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    
+}
+
+.btn{
+    margin-left: 10px;
+    padding: 10px 32px;
+    border: 0;
+    border-radius:  var(--border);
+    background-color: var(--clr_btn);
+    cursor: pointer;
+}
+
+.mensaje{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mensaje span{
+    display: block;
+}
+
+
+.error{
+    color: red;
+}
+.correcto{
+    color: green;
+}
