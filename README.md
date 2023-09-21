@@ -18,16 +18,20 @@ La idea de este proyecto, es a raíz de mi portfolio. Después de ver varios pro
 ### Screenshot
 
 ![](./assets/comprobar_resultado.jpg)
+![](./assets/captura_ejercicio_1.jpg)
+![](./assets/brujula)
+![](./assets/captura_ejercicio_2.jpg)
 
 
 ### Links
 
 - Solucion Comprobar_resultado: [YouTube](https://www.youtube.com/watch?v=WQAsMdCkS94&t=292s)
+- Solucion Brujula: [YouTube](https://youtu.be/SFU-Af0812A?si=Qy5i8Gwx1xgMvlKG)
 
 
 ## Mi proceso
 
-
+Después de varias horas de tutoriales, llego el momento de probar lo aprendido hasta aca e ir investigando formas nuevas de resolver los diferentes problemas.
 
 ### Que aprendi
 

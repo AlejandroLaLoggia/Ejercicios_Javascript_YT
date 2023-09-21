@@ -70,10 +70,34 @@ main.comprobar{
     display: block;
 }
 
-
 .error{
     color: red;
 }
 .correcto{
     color: green;
 }
+
+.brujula-container{
+    text-align: center;
+    overflow: hidden;
+}
+.boton{
+    width: 520px;
+    height: 520px;
+    background-image: url(../assets/brujula.png);
+    user-select: none;
+    margin: auto;
+}
+
+.flecha{
+    font-size: 100px;
+    user-select: none;
+    width: 520px;
+    height: 520px;
+    color: rgb(255,0,0);
+}
+
+.porcentaje{
+    font-size: 100px;
+}
+
